@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared] /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/0b24f7a1e4b105e2b5be8d1248e90126/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/05d72de0cc832f339eb46a1b637b6740/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/49076690cfd6bb0ef31f31166e057aad/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97a3c3c64b203c6c11cf8080c5887def/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/e772fe71c15d12835b080f911c048869/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0-rc03] /Users/ovidiucristurean/.gradle/caches/transforms-3/eef2e266f71516445a11257edcf02a70/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/29227caffd216525d11eee100b0850dd/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/e55a05f7e2741235d7af73f2f24a5b36/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b4b8c206932ceb45203a1f83c129e2c1/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/2a08d4772f1241b325f4e4e8713ddac4/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3753da29dbadb100f2eabcd81fc3d013/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/98a3b5853de410dce33308b6423f06ce/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b72fdb8f582d01b45f3d36494189bf7a/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b6a1add6f038b948e0603439f434883b/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/6fa32bac2022f3990814bb032cf3ed46/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/65b2a020afcc4817e1f584c996f7cdaf/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/572aca5c462e40872e0b53d987658a36/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/ovidiucristurean/.gradle/caches/transforms-3/3af44b01256852d2370b0995ab87cf38/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d783ac7b026db2747f06c638f70cc10b/transformed/koin-android-3.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1b6410dd689750b852b977b5c5ba7e76/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1a3c9ad483205cb6f5e7b214ecc006eb/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/8cf25e6bf282c3b2375e37c617c8ba36/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/e79f8513a23ae456a33e57690523baaa/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/31d64c25259f181efd17da6b5f3a846c/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3a931c07d6503144c917c924d4a322e4/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee648abb934c6ed658f620b3b106b8ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/39425c035cd86203494009dbfd535a4a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ad1791fd617bbde0c9b1bb06d0f4f0be/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/157665c6bd026c7f0fb9a7e4520f18db/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ba5df81593ed8270cf41d032718b90f9/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/bd35bb73cfdb41fd889a6b51834c52d9/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/bf96b5b1407a0802861af8e40c3a4d30/transformed/voyager-tab-navigator-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/99566dca5cb3a671ba730e3ad4b06275/transformed/voyager-koin-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/ca594599ae08db2ba1f61696aa3b6041/transformed/voyager-transitions-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/401a22b0d61366494fd4c10a61a605a5/transformed/voyager-navigator-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/d5015d2b6af11100dbed9fefe33e5a43/transformed/voyager-core-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/741fd05eef7df7179c56a293aa146e30/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/7a6636d7d0fbea016fb4bd73621dbe35/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/fee81ca95ae20ff01dca9821a880cad0/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97fedad7a8327ee0120e66e368a39d65/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/488225898da3b378039056f58a8cdd5c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/63653eb741df430da99eb4d6f0c8ddcf/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/8bb8d0b9f4b425d80f04d0472639fa64/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ae64b5f54bb66e6c9a9b7706b0176f0e/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/567d17f96898c31828e31e6ce01b9f67/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d2069ea2c7c66c48bb310e8cbbd639bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/065e7445d16a96f7434fd50081ac69ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/198eb2cab4e6623eb7d1fbf362af1d01/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/599ea5db4ced4c10e2ab618733f34bd9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/3fc6b74451532ec4bf27149ad9c73a06/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee64bd125ba3ad88e102d686baada434/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/76e45d21f134225a470c0fa9f73917b1/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/e36ce7bf7230e83b442bcfdd1c39e458/transformed/activity-compose-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3f5c2dcd3b1cfc41f103ed76d847c084/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/48eb947a3ab4a435b2ed948359ee0863/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/2d92d73cceeb7550313b6c48c172a884/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/2e375000dcafa17764ce1d28a29d437a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3e54032b9a56cef76decfc4af8c7a388/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/139635cec7fb53c806df238b0e214d67/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/5ba3734a847ec2ab42851564e9004a39/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/af7b288331ccbb8a25309a4abb5beb68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:4:5-17:19
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:4:5-17:19
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d783ac7b026db2747f06c638f70cc10b/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d783ac7b026db2747f06c638f70cc10b/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/2d92d73cceeb7550313b6c48c172a884/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/2d92d73cceeb7550313b6c48c172a884/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:8:9-40
+	android:name
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:5:9-41
+activity#com.ovidiucristurean.kmpsportcomposables.android.MainActivity
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/0b24f7a1e4b105e2b5be8d1248e90126/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/0b24f7a1e4b105e2b5be8d1248e90126/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/05d72de0cc832f339eb46a1b637b6740/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/05d72de0cc832f339eb46a1b637b6740/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/49076690cfd6bb0ef31f31166e057aad/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/49076690cfd6bb0ef31f31166e057aad/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97a3c3c64b203c6c11cf8080c5887def/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97a3c3c64b203c6c11cf8080c5887def/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/e772fe71c15d12835b080f911c048869/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/e772fe71c15d12835b080f911c048869/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0-rc03] /Users/ovidiucristurean/.gradle/caches/transforms-3/eef2e266f71516445a11257edcf02a70/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0-rc03] /Users/ovidiucristurean/.gradle/caches/transforms-3/eef2e266f71516445a11257edcf02a70/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/29227caffd216525d11eee100b0850dd/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/29227caffd216525d11eee100b0850dd/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/e55a05f7e2741235d7af73f2f24a5b36/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/e55a05f7e2741235d7af73f2f24a5b36/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b4b8c206932ceb45203a1f83c129e2c1/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b4b8c206932ceb45203a1f83c129e2c1/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/2a08d4772f1241b325f4e4e8713ddac4/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/2a08d4772f1241b325f4e4e8713ddac4/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3753da29dbadb100f2eabcd81fc3d013/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3753da29dbadb100f2eabcd81fc3d013/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/98a3b5853de410dce33308b6423f06ce/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/98a3b5853de410dce33308b6423f06ce/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b72fdb8f582d01b45f3d36494189bf7a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b72fdb8f582d01b45f3d36494189bf7a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b6a1add6f038b948e0603439f434883b/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/b6a1add6f038b948e0603439f434883b/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/6fa32bac2022f3990814bb032cf3ed46/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/6fa32bac2022f3990814bb032cf3ed46/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/65b2a020afcc4817e1f584c996f7cdaf/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/65b2a020afcc4817e1f584c996f7cdaf/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/572aca5c462e40872e0b53d987658a36/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/572aca5c462e40872e0b53d987658a36/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/ovidiucristurean/.gradle/caches/transforms-3/3af44b01256852d2370b0995ab87cf38/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/ovidiucristurean/.gradle/caches/transforms-3/3af44b01256852d2370b0995ab87cf38/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d783ac7b026db2747f06c638f70cc10b/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d783ac7b026db2747f06c638f70cc10b/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1b6410dd689750b852b977b5c5ba7e76/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1b6410dd689750b852b977b5c5ba7e76/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1a3c9ad483205cb6f5e7b214ecc006eb/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1a3c9ad483205cb6f5e7b214ecc006eb/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/8cf25e6bf282c3b2375e37c617c8ba36/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/8cf25e6bf282c3b2375e37c617c8ba36/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/e79f8513a23ae456a33e57690523baaa/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/ovidiucristurean/.gradle/caches/transforms-3/e79f8513a23ae456a33e57690523baaa/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/31d64c25259f181efd17da6b5f3a846c/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/31d64c25259f181efd17da6b5f3a846c/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3a931c07d6503144c917c924d4a322e4/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3a931c07d6503144c917c924d4a322e4/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee648abb934c6ed658f620b3b106b8ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee648abb934c6ed658f620b3b106b8ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/39425c035cd86203494009dbfd535a4a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/39425c035cd86203494009dbfd535a4a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ad1791fd617bbde0c9b1bb06d0f4f0be/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ad1791fd617bbde0c9b1bb06d0f4f0be/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/157665c6bd026c7f0fb9a7e4520f18db/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/157665c6bd026c7f0fb9a7e4520f18db/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ba5df81593ed8270cf41d032718b90f9/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ba5df81593ed8270cf41d032718b90f9/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/bd35bb73cfdb41fd889a6b51834c52d9/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/bd35bb73cfdb41fd889a6b51834c52d9/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/bf96b5b1407a0802861af8e40c3a4d30/transformed/voyager-tab-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/bf96b5b1407a0802861af8e40c3a4d30/transformed/voyager-tab-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/99566dca5cb3a671ba730e3ad4b06275/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/99566dca5cb3a671ba730e3ad4b06275/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/ca594599ae08db2ba1f61696aa3b6041/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/ca594599ae08db2ba1f61696aa3b6041/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/401a22b0d61366494fd4c10a61a605a5/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/401a22b0d61366494fd4c10a61a605a5/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/d5015d2b6af11100dbed9fefe33e5a43/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0-rc10] /Users/ovidiucristurean/.gradle/caches/transforms-3/d5015d2b6af11100dbed9fefe33e5a43/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/741fd05eef7df7179c56a293aa146e30/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/741fd05eef7df7179c56a293aa146e30/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/7a6636d7d0fbea016fb4bd73621dbe35/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/7a6636d7d0fbea016fb4bd73621dbe35/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/fee81ca95ae20ff01dca9821a880cad0/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/fee81ca95ae20ff01dca9821a880cad0/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97fedad7a8327ee0120e66e368a39d65/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/97fedad7a8327ee0120e66e368a39d65/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/488225898da3b378039056f58a8cdd5c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/488225898da3b378039056f58a8cdd5c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/63653eb741df430da99eb4d6f0c8ddcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/63653eb741df430da99eb4d6f0c8ddcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/8bb8d0b9f4b425d80f04d0472639fa64/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/8bb8d0b9f4b425d80f04d0472639fa64/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ae64b5f54bb66e6c9a9b7706b0176f0e/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/ae64b5f54bb66e6c9a9b7706b0176f0e/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/567d17f96898c31828e31e6ce01b9f67/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/567d17f96898c31828e31e6ce01b9f67/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d2069ea2c7c66c48bb310e8cbbd639bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/d2069ea2c7c66c48bb310e8cbbd639bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/065e7445d16a96f7434fd50081ac69ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/065e7445d16a96f7434fd50081ac69ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/198eb2cab4e6623eb7d1fbf362af1d01/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/198eb2cab4e6623eb7d1fbf362af1d01/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/599ea5db4ced4c10e2ab618733f34bd9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/599ea5db4ced4c10e2ab618733f34bd9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/3fc6b74451532ec4bf27149ad9c73a06/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/3fc6b74451532ec4bf27149ad9c73a06/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee64bd125ba3ad88e102d686baada434/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/ee64bd125ba3ad88e102d686baada434/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/76e45d21f134225a470c0fa9f73917b1/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/76e45d21f134225a470c0fa9f73917b1/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/e36ce7bf7230e83b442bcfdd1c39e458/transformed/activity-compose-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/e36ce7bf7230e83b442bcfdd1c39e458/transformed/activity-compose-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3f5c2dcd3b1cfc41f103ed76d847c084/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/3f5c2dcd3b1cfc41f103ed76d847c084/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/48eb947a3ab4a435b2ed948359ee0863/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/48eb947a3ab4a435b2ed948359ee0863/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/2d92d73cceeb7550313b6c48c172a884/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/2d92d73cceeb7550313b6c48c172a884/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/2e375000dcafa17764ce1d28a29d437a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/2e375000dcafa17764ce1d28a29d437a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3e54032b9a56cef76decfc4af8c7a388/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/3e54032b9a56cef76decfc4af8c7a388/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/139635cec7fb53c806df238b0e214d67/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/139635cec7fb53c806df238b0e214d67/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/5ba3734a847ec2ab42851564e9004a39/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/5ba3734a847ec2ab42851564e9004a39/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/af7b288331ccbb8a25309a4abb5beb68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/af7b288331ccbb8a25309a4abb5beb68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/androidApp/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/1d730f15a673e18e32e75e7b2ae653c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/879db76fce8676f75a6fafc95fdd2913/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ovidiucristurean/.gradle/caches/transforms-3/0e7b18401f856301784c65cb2160cd6b/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.ovidiucristurean.kmpsportcomposables.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ovidiucristurean.kmpsportcomposables.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/45efcc8ae733d900526b7f7fbf8d9583/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/ovidiucristurean/.gradle/caches/transforms-3/563af0767273a5076c951b602a3cfa43/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ovidiucristurean/.gradle/caches/transforms-3/4c0503df93d6b9cb4623e21139ea0fc4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

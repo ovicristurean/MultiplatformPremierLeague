@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml:2:13-83
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml:2:13-83
+	package
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml
+	xmlns:android
+		ADDED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml reason: use-sdk injection requested
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml
+INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml
+	android:minSdkVersion
+		INJECTED from /Users/ovidiucristurean/Documents/AndroidStudioProjects/kmp-sport-composables/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest7659422515711054638.xml
